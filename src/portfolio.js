@@ -48,12 +48,12 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
-  subTitle: "Passionate Data Analyst 🔍 eager to explore diverse datasets and uncover insights using SQL, Python, Excel, and visualization tools like Power BI & Tableau.",
+  title: "",
+  subTitle: "",
   skills: [
-    emoji("⚡ Data cleaning, transformation, and analysis using SQL & Python"),
-    emoji("⚡ Creating interactive dashboards and reports with Power BI & Tableau"),
-    emoji("⚡ Automating data processes and integrating APIs for seamless data flow")
+    // emoji("⚡ Data cleaning, transformation, and analysis using SQL & Python"),
+    // emoji("⚡ Creating interactive dashboards and reports with Power BI & Tableau"),
+    // emoji("⚡ Automating data processes and integrating APIs for seamless data flow")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon

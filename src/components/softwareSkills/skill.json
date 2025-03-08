@@ -1,0 +1,30 @@
+[
+  {
+    "title": "AWS",
+    "imageSrc": "aws1.webp"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "python.png"
+  },
+  {
+    "title": "Google Analytics",
+    "imageSrc": "googleAnalytics.png"
+  },
+  {
+    "title": "Looker",
+    "imageSrc": "looker.png"
+  },
+  {
+    "title": "Data Viz",
+    "imageSrc": "dataViz.png"
+  },
+  {
+    "title": "Google Cloud",
+    "imageSrc": "googleCloud.png"
+  },
+  {
+    "title": "GTM",
+    "imageSrc": "gtm.webp"
+  }
+]
